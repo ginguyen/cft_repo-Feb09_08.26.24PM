@@ -1,0 +1,16 @@
+{
+    "meta": {
+        "matchedPoliciesSummary": {
+            "high": 0,
+            "medium": 0,
+            "low": 0
+        },
+        "errorDetails": [
+            {
+                "status": "BAD_REQUEST",
+                "detail": "./cft_valid_yml_and_invalid_yml/config.yml: Failed to convert the input template, is the template type set properly?"
+            }
+        ]
+    },
+    "data": []
+}
